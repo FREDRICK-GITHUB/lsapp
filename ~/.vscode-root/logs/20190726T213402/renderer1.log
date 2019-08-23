@@ -1,0 +1,4 @@
+[2019-07-26 21:34:28.300] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-07-26 21:34:28.319] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-07-26 21:35:10.180] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/lsapp/.vscode'
+[2019-07-26 21:35:10.180] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/lsapp/.vscode'
